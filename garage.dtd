@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!ELEMENT garage (vehicle+)>
+<!ELEMENT vehicle (make, model, year)>
+<!ELEMENT make (#PCDATA)>
+<!ELEMENT model (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ATTLIST vehicle id CDATA #REQUIRED>

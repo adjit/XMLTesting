@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE garage SYSTEM "garage.dtd">
+
+<garage xmlns="garage.xsd">
+
+  <vehicle id="1">
+    <make>Ford</make>
+    <model>Explorer</model>
+    <year>2015</year>
+  </vehicle>
+  <vehicle id="2">
+    <make>Ford</make>
+    <model>Mustang</model>
+    <year>2017</year>
+  </vehicle>
+  <vehicle id="3">
+    <make>Jeep</make>
+    <model>Wrangler</model>
+    <year>2008</year>
+  </vehicle>
+  <vehicle id="4">
+    <make>Lincoln</make>
+    <model>Continental</model>
+    <year>2014</year>
+  </vehicle>
+  
+</garage>
